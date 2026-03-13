@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://luckygem-online-de.com/
+Sitemap: https://luckygem-online-de.com/sitemap.xml
